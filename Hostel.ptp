@@ -1,0 +1,13 @@
+# PCTeX Project File, Version 1.1
+	name: Hostel
+	texformat: LATEX
+Hostel.tex
+	wndpos: 3 -1 -1 -8 -31 0 0 1068 456
+	zorder: 0
+	edit: 327
+Hostel.aux
+Hostel.log
+Hostel.DVI
+	wndpos: 2 0 640 -8 -31 182 182 1254 642
+	zorder: 1
+	view: 0 -2
